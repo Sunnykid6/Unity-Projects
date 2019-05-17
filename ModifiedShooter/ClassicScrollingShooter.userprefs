@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\scoring.js">
+    <Files>
+      <File FileName="Assets\Scripts\shipshot.js" Line="26" Column="19" />
+      <File FileName="Assets\Scripts\ScrollingShip.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Rocket.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UFO.js" Line="40" Column="20" />
+      <File FileName="Assets\Scripts\Camera.js" Line="22" Column="8" />
+      <File FileName="Assets\Scripts\saucershot.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\scoring.js" Line="10" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

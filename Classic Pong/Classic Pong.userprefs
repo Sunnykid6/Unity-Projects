@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\ModifiedShooter\Assets\Scripts\Rocket.js">
+    <Files>
+      <File FileName="Assets\ballLauncher.js" Line="1" Column="1" />
+      <File FileName="..\ModifiedShooter\Assets\Scripts\Game Menu.js" Line="1" Column="1" />
+      <File FileName="..\ModifiedShooter\Assets\Scripts\ScrollingShip.js" Line="11" Column="1" />
+      <File FileName="..\ModifiedShooter\Assets\Scripts\Rocket.js" Line="17" Column="1" />
+      <File FileName="..\ModifiedShooter\Assets\Scripts\saucershot.js" Line="26" Column="1" />
+      <File FileName="..\ModifiedShooter\Assets\Scripts\scoring.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

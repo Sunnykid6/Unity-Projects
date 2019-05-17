@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Pac-Man\Assets\Assets\Scripts\Green Enemy.js">
+    <Files>
+      <File FileName="..\Pac-Man\Assets\Assets\Scripts\Teleporter.js" Line="1" Column="1" />
+      <File FileName="..\Pac-Man\Assets\Assets\Scripts\Green Enemy.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
